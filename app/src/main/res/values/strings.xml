@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SimpleDialog</string>
+    <string name="simple_dialog">Simple Dialog</string>
+    <string name="negative_button_label">No</string>
+    <string name="positive_button_label">Yes</string>
+    <string name="title">This is title</string>
+    <string name="description">This is description</string>
 </resources>
